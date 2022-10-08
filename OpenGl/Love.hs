@@ -24,7 +24,7 @@ displayMyPoints primitiveShape = do
     displayPoints myPoints primitiveShape
 
 myPoints
-  = [(0/9,4.8/9,0::GLfloat)  ---Detak Jantung ke-1
+  = [(0/9,4.8/9,0::GLfloat)  
     ,(1/9,6/9,0)
     ,(2/9,6.2/9,0)
     ,(3/9,6.4/9,0)
@@ -37,7 +37,7 @@ myPoints
     ,(6.8/9,1/9,0)
     ,(6/9,0,0)
     ,(0,-6/9,0)
-    ,(-0/9,4.8/9,0)  ---Detak Jantung ke-1
+    ,(-0/9,4.8/9,0)  
     ,(-1/9,6/9,0)
     ,(-2/9,6.2/9,0)
     ,(-3/9,6.4/9,0)
