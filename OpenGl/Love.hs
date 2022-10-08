@@ -53,6 +53,5 @@ myPoints
     ]
 
 main = mainFor Polygon
-{--menghubungkan antar point (membuat line) dengan cara menghubungkan titik ke titik secara countinue (melanjutkan
-   dari titik sebelumnya)--}
+
       
