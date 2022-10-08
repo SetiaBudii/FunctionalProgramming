@@ -31,5 +31,4 @@ myPoints
     ]
 
 main = mainFor LineLoop
-
       
